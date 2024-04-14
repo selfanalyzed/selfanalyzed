@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @selfanalyzed
 - 👀 I’m interested in everything
-- 🌱 Currently learning Coding & AI
+- 🌱 Currently learning C# & Unity environment
 - 📫 How to reach me - DM me at X
 
 <!---
